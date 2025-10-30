@@ -1,0 +1,9 @@
+{
+  "num_devices": 20,
+  "message_interval": 1,
+  "protocol": "HTTP",
+  "mqtt_broker": "localhost",
+  "mqtt_topic": "iot",
+  "http_server": "http://127.0.0.1:5000/data"
+}
+
